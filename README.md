@@ -11,8 +11,8 @@ Despite the GUI going mainstream in the 80s, programming seems to have stalled i
 1. [Communities](communities.md) — Places to talk amongst ourselves.
 1. [Impressions](impressions) — My 2¢
 
-This is a perpetual work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's fallen into a deep slumber, but will likely reawaken at some point in the coming years. If you know of anything that could or should be added, please do open an [issue](https://github.com/ivanreese/visual-programming-codex/issues) — that's where I've been placing every interesting project that I happen upon.
+This is a perpetual work-in-progress, inspired by Shaun Lebron's [History of Lisp Parens](https://github.com/shaunlebron/history-of-lisp-parens). It's fallen into a deep slumber, but will likely reawaken at some point in the coming years. If you know of anything that could or should be added, please do open an [issue](https://github.com/ivyreese/visual-programming-codex/issues) — that's where I've been placing every interesting project that I happen upon.
 
 Also, it's worth flagging that my personal focus is on the node-wire style of visual programming interface. (I don't think there have been any truly *great* node-wire tools yet, but that it wouldn't be too difficult to make one if someone were sufficiently motivated and did their research.) So given my focus, this repo does a poor job of representing spreadsheets, state charts, block languages, and other presently popular forms of visual programming.
 
-In closing, if you'd like to discuss visual programming, the best place is the [Future of Coding slack](https://futureofcoding.org), but you can also scroll down to the contact section on [my website](http://spiralganglion.com).
+In closing, if you'd like to discuss visual programming, the best place is the [Feeling of Computing community](https://feelingof.com), but you can also scroll down to the contact section on [my website](https://ivy.boo).

@@ -8,7 +8,7 @@ The app itself is some sort of flowchart mind-mapping tool by Corel that is, sad
 
 (Also, the app is called "MindManager", which is the most soul-crushing name for an app that I've heard all year. May the ghost of Engelbart haunt anyone who thinks a mind ought to be *managed* by software.)
 
-So, what is it about this illustration that's so interesting? On the one hand, it's just typical node-wire programming viewed through the [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis) lens. But on the other hand, there's a bunch of made-up detail that is suggestive of a rich possibility space — much richer than [all those established node-wire languages](https://github.com/ivanreese/visual-programming-codex/blob/main/implementations.md) have actually explored.
+So, what is it about this illustration that's so interesting? On the one hand, it's just typical node-wire programming viewed through the [Corporate Memphis](https://en.wikipedia.org/wiki/Corporate_Memphis) lens. But on the other hand, there's a bunch of made-up detail that is suggestive of a rich possibility space — much richer than [all those established node-wire languages](https://github.com/ivyreese/visual-programming-codex/blob/main/implementations.md) have actually explored.
 
 <br><br>
 

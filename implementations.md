@@ -355,8 +355,8 @@ Grasshopper has a neat way of rendering the results of a "find" operation.
 
 ![](assets/hest.gif)
 
-# [Hest](https://ivanish.ca/hest)
-by [Ivan Reese](http://ivanish.ca)
+# [Hest](https://ivy.boo/hest)
+by [Ivy Reese](http://ivy.boo)
 
 > A drawing tool with visual programming features. Hest allows the programmer to actively participate in the execution of their code, seeing data flow from function to function, interacting with the data in a way that feels like a game.
 
